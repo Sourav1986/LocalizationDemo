@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  iLikeIt
+
+  Created by Sourav@Beas on 04/01/18.
+  Copyright © 2018 Razeware. All rights reserved.
+*/
+
+"KEY" = "CONTENT";
+"You have sold 1000 apps in %d months" = "Has vendido 1000 aplicaciones en %d meses";
+"You like?" = "¿Es bueno?";
+"imageName" = "MeGusta";
